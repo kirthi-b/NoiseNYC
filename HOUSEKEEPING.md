@@ -1,3 +1,0 @@
-# Housekeeping
-
-Minor notes.
